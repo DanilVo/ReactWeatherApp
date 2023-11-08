@@ -1,3 +1,7 @@
-.Home {
-	
+.Home > .weatherInfo {
+    margin-top: 20px;
+	border: 1px solid black;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
 }
